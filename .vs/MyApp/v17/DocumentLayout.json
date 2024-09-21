@@ -1,0 +1,225 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Code\\Csharp\\ASP_WEB_MVC\\MyApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BAF04575-C113-46D7-9660-3B7659B2D0E9}|MyApp\\MyApp.csproj|d:\\code\\csharp\\asp_web_mvc\\myapp\\myapp\\data\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAF04575-C113-46D7-9660-3B7659B2D0E9}|MyApp\\MyApp.csproj|solutionrelative:myapp\\data\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAF04575-C113-46D7-9660-3B7659B2D0E9}|MyApp\\MyApp.csproj|d:\\code\\csharp\\asp_web_mvc\\myapp\\myapp\\data\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAF04575-C113-46D7-9660-3B7659B2D0E9}|MyApp\\MyApp.csproj|solutionrelative:myapp\\data\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAF04575-C113-46D7-9660-3B7659B2D0E9}|MyApp\\MyApp.csproj|d:\\code\\csharp\\asp_web_mvc\\myapp\\myapp\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAF04575-C113-46D7-9660-3B7659B2D0E9}|MyApp\\MyApp.csproj|solutionrelative:myapp\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAF04575-C113-46D7-9660-3B7659B2D0E9}|MyApp\\MyApp.csproj|d:\\code\\csharp\\asp_web_mvc\\myapp\\myapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAF04575-C113-46D7-9660-3B7659B2D0E9}|MyApp\\MyApp.csproj|solutionrelative:myapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAF04575-C113-46D7-9660-3B7659B2D0E9}|MyApp\\MyApp.csproj|d:\\code\\csharp\\asp_web_mvc\\myapp\\myapp\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BAF04575-C113-46D7-9660-3B7659B2D0E9}|MyApp\\MyApp.csproj|solutionrelative:myapp\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAF04575-C113-46D7-9660-3B7659B2D0E9}|MyApp\\MyApp.csproj|d:\\code\\csharp\\asp_web_mvc\\myapp\\myapp\\views\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BAF04575-C113-46D7-9660-3B7659B2D0E9}|MyApp\\MyApp.csproj|solutionrelative:myapp\\views\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAF04575-C113-46D7-9660-3B7659B2D0E9}|MyApp\\MyApp.csproj|d:\\code\\csharp\\asp_web_mvc\\myapp\\myapp\\views\\categories\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BAF04575-C113-46D7-9660-3B7659B2D0E9}|MyApp\\MyApp.csproj|solutionrelative:myapp\\views\\categories\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAF04575-C113-46D7-9660-3B7659B2D0E9}|MyApp\\MyApp.csproj|d:\\code\\csharp\\asp_web_mvc\\myapp\\myapp\\views\\categories\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BAF04575-C113-46D7-9660-3B7659B2D0E9}|MyApp\\MyApp.csproj|solutionrelative:myapp\\views\\categories\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAF04575-C113-46D7-9660-3B7659B2D0E9}|MyApp\\MyApp.csproj|d:\\code\\csharp\\asp_web_mvc\\myapp\\myapp\\views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BAF04575-C113-46D7-9660-3B7659B2D0E9}|MyApp\\MyApp.csproj|solutionrelative:myapp\\views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAF04575-C113-46D7-9660-3B7659B2D0E9}|MyApp\\MyApp.csproj|d:\\code\\csharp\\asp_web_mvc\\myapp\\myapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAF04575-C113-46D7-9660-3B7659B2D0E9}|MyApp\\MyApp.csproj|solutionrelative:myapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAF04575-C113-46D7-9660-3B7659B2D0E9}|MyApp\\MyApp.csproj|d:\\code\\csharp\\asp_web_mvc\\myapp\\myapp\\data\\myappaspcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAF04575-C113-46D7-9660-3B7659B2D0E9}|MyApp\\MyApp.csproj|solutionrelative:myapp\\data\\myappaspcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAF04575-C113-46D7-9660-3B7659B2D0E9}|MyApp\\MyApp.csproj|d:\\code\\csharp\\asp_web_mvc\\myapp\\myapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BAF04575-C113-46D7-9660-3B7659B2D0E9}|MyApp\\MyApp.csproj|solutionrelative:myapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\Code\\Csharp\\ASP_WEB_MVC\\MyApp\\MyApp\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "MyApp\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\Code\\Csharp\\ASP_WEB_MVC\\MyApp\\MyApp\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "MyApp\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T09:12:23.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Code\\Csharp\\ASP_WEB_MVC\\MyApp\\MyApp\\Data\\Product.cs",
+              "RelativeDocumentMoniker": "MyApp\\Data\\Product.cs",
+              "ToolTip": "D:\\Code\\Csharp\\ASP_WEB_MVC\\MyApp\\MyApp\\Data\\Product.cs",
+              "RelativeToolTip": "MyApp\\Data\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T09:05:47.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Code\\Csharp\\ASP_WEB_MVC\\MyApp\\MyApp\\Views\\Categories\\Index.cshtml",
+              "RelativeDocumentMoniker": "MyApp\\Views\\Categories\\Index.cshtml",
+              "ToolTip": "D:\\Code\\Csharp\\ASP_WEB_MVC\\MyApp\\MyApp\\Views\\Categories\\Index.cshtml",
+              "RelativeToolTip": "MyApp\\Views\\Categories\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-21T09:05:10.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Code\\Csharp\\ASP_WEB_MVC\\MyApp\\MyApp\\Views\\Categories\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MyApp\\Views\\Categories\\Edit.cshtml",
+              "ToolTip": "D:\\Code\\Csharp\\ASP_WEB_MVC\\MyApp\\MyApp\\Views\\Categories\\Edit.cshtml",
+              "RelativeToolTip": "MyApp\\Views\\Categories\\Edit.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACUAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-21T09:04:57.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Code\\Csharp\\ASP_WEB_MVC\\MyApp\\MyApp\\Views\\Categories\\Details.cshtml",
+              "RelativeDocumentMoniker": "MyApp\\Views\\Categories\\Details.cshtml",
+              "ToolTip": "D:\\Code\\Csharp\\ASP_WEB_MVC\\MyApp\\MyApp\\Views\\Categories\\Details.cshtml",
+              "RelativeToolTip": "MyApp\\Views\\Categories\\Details.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABsAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-20T05:45:18.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Code\\Csharp\\ASP_WEB_MVC\\MyApp\\MyApp\\Views\\Categories\\Delete.cshtml",
+              "RelativeDocumentMoniker": "MyApp\\Views\\Categories\\Delete.cshtml",
+              "ToolTip": "D:\\Code\\Csharp\\ASP_WEB_MVC\\MyApp\\MyApp\\Views\\Categories\\Delete.cshtml",
+              "RelativeToolTip": "MyApp\\Views\\Categories\\Delete.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-20T05:44:10.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "D:\\Code\\Csharp\\ASP_WEB_MVC\\MyApp\\MyApp\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "MyApp\\Controllers\\CategoriesController.cs",
+              "ToolTip": "D:\\Code\\Csharp\\ASP_WEB_MVC\\MyApp\\MyApp\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "MyApp\\Controllers\\CategoriesController.cs",
+              "ViewState": "AQIAAH8AAAAAAAAAAADwvxcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T05:39:22.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\Code\\Csharp\\ASP_WEB_MVC\\MyApp\\MyApp\\Data\\Category.cs",
+              "RelativeDocumentMoniker": "MyApp\\Data\\Category.cs",
+              "ToolTip": "D:\\Code\\Csharp\\ASP_WEB_MVC\\MyApp\\MyApp\\Data\\Category.cs",
+              "RelativeToolTip": "MyApp\\Data\\Category.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAA1wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T05:41:47.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Code\\Csharp\\ASP_WEB_MVC\\MyApp\\MyApp\\Views\\Categories\\Create.cshtml",
+              "RelativeDocumentMoniker": "MyApp\\Views\\Categories\\Create.cshtml",
+              "ToolTip": "D:\\Code\\Csharp\\ASP_WEB_MVC\\MyApp\\MyApp\\Views\\Categories\\Create.cshtml",
+              "RelativeToolTip": "MyApp\\Views\\Categories\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-20T05:41:56.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Csharp\\ASP_WEB_MVC\\MyApp\\MyApp\\Program.cs",
+              "RelativeDocumentMoniker": "MyApp\\Program.cs",
+              "ToolTip": "D:\\Code\\Csharp\\ASP_WEB_MVC\\MyApp\\MyApp\\Program.cs",
+              "RelativeToolTip": "MyApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T05:29:43.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Code\\Csharp\\ASP_WEB_MVC\\MyApp\\MyApp\\appsettings.json",
+              "RelativeDocumentMoniker": "MyApp\\appsettings.json",
+              "ToolTip": "D:\\Code\\Csharp\\ASP_WEB_MVC\\MyApp\\MyApp\\appsettings.json",
+              "RelativeToolTip": "MyApp\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-20T05:29:44.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MyAppAspContext.cs",
+              "DocumentMoniker": "D:\\Code\\Csharp\\ASP_WEB_MVC\\MyApp\\MyApp\\Data\\MyAppAspContext.cs",
+              "RelativeDocumentMoniker": "MyApp\\Data\\MyAppAspContext.cs",
+              "ToolTip": "D:\\Code\\Csharp\\ASP_WEB_MVC\\MyApp\\MyApp\\Data\\MyAppAspContext.cs",
+              "RelativeToolTip": "MyApp\\Data\\MyAppAspContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T05:29:24.275Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
