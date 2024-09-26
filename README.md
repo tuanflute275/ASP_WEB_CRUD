@@ -17,10 +17,11 @@ Thư viện cần cho Entity Framework Core
 	},
 
 3. Tạo entity với lệnh
-   
+
 	B1: chọn tools trên tab điều khiển --> chọn nuget package manager --> package manager console 
 	(Hiện ra màn hình console)
 
 	B2 : Nhập lệnh Scaffold-DbContext "chuoi_ket_noi_sql" Microsoft.EntityFrameworkCore.SqlServer -OutputDir THUMUCLUUTRU -f
 
-	>Scaffold-DbContext "Data Source=DESKTOP-PFRQIVL\SQLEXPRESS01;Initial Catalog=MyAppAsp;User ID=sa;Password=***********;Trust Server 	Certificate=True" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Data -f
+
+		Scaffold-DbContext "Data Source=DESKTOP-PFRQIVL\SQLEXPRESS01;Initial Catalog=MyAppAsp;User ID=sa;Password=***********;Trust Server 	Certificate=True" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Data -f
